@@ -6,8 +6,8 @@
   },
 
   "server": {
-    "ip": "localhost",
-    "port": 25565,
+    "ip": "anarkali_disco_chali.aternos.me",
+    "port": 41707,
     "version": "1.19.3"
   },
 
